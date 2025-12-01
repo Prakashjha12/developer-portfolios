@@ -1002,6 +1002,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Poonam Chauhan](https://poo17nam.github.io/profile)
 - [Prajwol Karki](https://prajwolkarki.com.np)
 - [Prakash Pun](https://prakashpun.me) [Software Engineer]
+- [prakash Jha](https://www.prakashjha.com/)[Full-Stack Developer]
 - [Pramesh Karki](https://karkipramesh.com.np)
 - [Pranav Arya](https://pranavarya.in) [Software Engineer]
 - [Pranshu Patel](https://pranshu05.vercel.app)
